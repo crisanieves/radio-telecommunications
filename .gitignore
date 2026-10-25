@@ -1,1 +1,20 @@
+# Gradle files and cache
+.gradle/
+build/
+app/build/
+.kotlin/
+.build-outputs/
+
+# Secret and local environment
+.env
+
+# Android Studio and IDE
+.idea/
+*.iml
+.DS_Store
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
 **/*:Zone.Identifier

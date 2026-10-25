@@ -1,0 +1,8 @@
+{
+  "name": "eRadio",
+  "description": "Radio and telecommunications engineering calculation tool for broadcasting, microwave, and satellite systems",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
