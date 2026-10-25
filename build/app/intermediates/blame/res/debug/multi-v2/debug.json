@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cristian/AndroidStudioProjects/myflutterapp/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/cristian/AndroidStudioProjects/myflutterapp/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "95",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "271"
+                    }
+                },
+                {
+                    "source": "/home/cristian/AndroidStudioProjects/myflutterapp/android/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        }
+    ]
+}
